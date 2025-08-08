@@ -1,0 +1,168 @@
+AI Academic Advisor system
+
+
+1. Personalized Academic Recommendations
+    Objective: 
+        Offer personalized course and study plan recommendations based on each student's academic history, learning style, and goals.
+
+    Why it’s important: 
+        Every student is unique, and a personalized approach can enhance motivation and improve learning outcomes.
+
+    What it should achieve:
+        Suggest courses that complement a student’s strengths and address weaknesses.
+        Create individualized study plans that align with the student's pace and objectives.
+        Ensure recommendations account for future career goals and interests.
+
+    Input: Student's academic history, Learning Style, Goals
+    Output: Personalized course, Study plan (list of subjects to learn), Books, (Future additions: Institutions)
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+2. Career Path and Post-Graduation Guidance
+    Objective: 
+        Help students navigate their career journey by recommending potential career paths based on academic performance, skills, and interests.
+    
+    Why it’s important: 
+        Students may have difficulty translating their academic experiences into real-world job opportunities, and 
+        personalized guidance can make this transition smoother.
+
+    What it should achieve:
+        Suggest potential career paths that align with a student's academic background, skills, and aspirations.
+        Provide guidance on the skills and qualifications required for specific careers.
+        Offer advice on internships, job shadowing, or networking opportunities based on the student’s field of study.
+
+    Input: academic history/performance, skills, interests
+    Output: Career-paths, journey 
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+3. Learning Path Optimization
+    Objective: 
+        Optimize learning paths to enhance efficiency and academic performance by identifying the most effective sequence of courses or study materials.
+    
+    Why it’s important: 
+        Not all students learn the same way, and optimizing their academic paths ensures they spend less time on unnecessary or redundant subjects.
+    
+    What it should achieve:
+        Recommend the most effective order in which courses should be taken based on prerequisites, learning speed, and knowledge gaps.
+        Suggest alternative paths for students struggling with certain subjects.
+        Offer recommendations on supplementary learning materials (videos, textbooks, practice problems) to reinforce difficult concepts.
+
+    Input: skills, interests
+    Output:  Optimized learning-paths, the most effective sequence of courses or study materials
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+4. Data-Driven Decision-Making for Educators
+
+    Objective: 
+        Provide academic advisors, counselors, and educators with data-driven insights to support their decision-making and improve their ability to guide students.
+    
+    Why it’s important: 
+        Academic staff need actionable insights to effectively guide students. Data-driven decisions improve student outcomes and provide a clearer understanding of academic trends.
+    
+    What it should achieve:
+        Present advisors with up-to-date academic performance data, at-risk student alerts, and overall trends.
+        Assist educators in identifying which teaching methods or courses are more successful for different types of students.
+        Help academic staff track student engagement, retention rates, and academic success.
+
+    Mode: Chatboard
+    Input: skills, interests + 
+    Output: 
+        Academic advisors, courselors, and aducators 
+        (wih data-driven insights to support their decision-making to guide students)
+ 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+5. Adaptive Learning and Continuous Improvement
+
+    Objective: 
+        Continuously adapt the AI system based on real-time student progress and feedback to improve the relevance of recommendations and predictions.
+    
+    Why it’s important: 
+        The learning environment is dynamic. 
+        What works for a student today may not work tomorrow. 
+        A continuous learning loop allows the system to stay relevant.
+    
+    What it should achieve:
+        Learn from student interactions, feedback, and performance to refine predictions and recommendations over time.
+        Adjust learning paths, interventions, and recommendations dynamically as the system gathers more data about the student’s preferences, habits, and outcomes.
+
+    Mode: Chatboard
+    Input: interested_area, real-time student progress
+    Output: 
+        feedback to improve the relevance of recommendations and predictions
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+7. Scalability and Integration with Existing Educational Systems
+    Objective: 
+        Ensure the system can scale to accommodate a large number of students and integrate smoothly with existing educational infrastructures (e.g., learning management systems, student information systems).
+    
+    Why it’s important: 
+        The system must be able to handle large amounts of student data and work with various platforms that educational institutions already use.
+    
+    What it should achieve:
+        Seamlessly integrate with the institution’s existing databases, such as gradebooks, course catalogs, and student records.
+        Support scalability to serve an increasing number of students without compromising performance.
+        Allow easy integration with other educational tools (e.g., online courses, assignment management systems, etc.).
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+8. Ethical and Transparent AI
+    Objective: 
+        Build a transparent, fair, and ethical AI system that takes into account privacy, bias mitigation, and the explainability of recommendations.
+    
+    Why it’s important: 
+        The AI system will impact student lives, and transparency and fairness are critical for trust and equity.
+    
+    What it should achieve:
+        Ensure student data is handled securely and in compliance with data privacy regulations (e.g., FERPA, GDPR).
+        Mitigate algorithmic biases to avoid unfair recommendations or predictions (e.g., ensuring the system does not favor specific groups based on demographic factors).
+        Provide explanations for recommendations, predictions, and interventions so that students and educators can understand how decisions are being made.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+9. Increased Student Engagement and Retention
+    Objective: 
+        Increase student engagement and retention by providing personalized, actionable, and motivating advice that encourages academic success.
+    
+    Why it’s important: 
+        A system that actively engages students with meaningful guidance will help them stay motivated and focused on their academic journey.
+    
+    What it should achieve:
+        Provide students with regular, personalized feedback that keeps them motivated and on track.
+        Identify opportunities for students to participate in extracurricular activities, internships, or workshops that enrich their learning experience.
+        Offer early interventions to keep students engaged when their academic performance starts to decline.
+
+
+
+
+
+
+
+Future work (Advance tasks):
+
+    1. Predict Academic Performance and Interventions
+        Objective: Predict student performance early in the semester or academic year and suggest interventions for students who may be at risk of underperforming.
+
+        Why it’s important: Early identification of students at risk of failing allows academic advisors to intervene and provide support before it’s too late.
+
+        What it should achieve:
+            Accurately forecast grades and academic success using past performance, attendance, participation, and behavior.
+            Identify at-risk students (e.g., low participation, late assignments, poor exam performance).
+            Provide actionable recommendations, such as additional tutoring, study resources, or changes to learning strategies.
+    

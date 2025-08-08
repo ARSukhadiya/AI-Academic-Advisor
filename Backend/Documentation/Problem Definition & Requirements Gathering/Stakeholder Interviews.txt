@@ -1,0 +1,6 @@
+Gather input from 
+    students, 
+    academic advisors, and 
+    educators 
+    
+    to understand their needs, pain points, and expectations from the system.

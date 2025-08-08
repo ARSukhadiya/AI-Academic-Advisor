@@ -1,0 +1,31 @@
+Data sources:
+
+
+Taken:
+    - UCI Open University Data
+
+
+
+
+Useful ones:
+    - 
+
+
+
+second-checks bucket:
+    - 
+
+
+
+
+Checking options:
+
+Axay:
+    1. Open Syllabus Dataset: 
+        This dataset comprises over 7 million college course syllabi from more than 8,600 institutions worldwide. 
+        It provides detailed information on course content, which can help in understanding the skills taught in various courses. 
+        (https://opensyllabus.github.io/osp-dataset-docs/index.html?utm_source=chatgpt.com)
+	
+    7.	USC Course Catalog Dataset: 
+        Hosted on Hugging Face, this dataset includes course information from the University of Southern California, which might provide additional insights. 
+        (https://huggingface.co/datasets/USC/USC-Course-Catalog?utm_source=chatgpt.com)

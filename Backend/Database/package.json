@@ -1,0 +1,16 @@
+{
+    "name": "academic-advisor",
+    "version": "1.0.0",
+    "description": "AI-based Academic Advisor",
+    "main": "app.js",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.0.14"
+    },
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Abhishek-Sukahdiya",
+    "license": "MIT"
+  }
+  

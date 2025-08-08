@@ -1,0 +1,88 @@
+Identify the types of data you'll need to collect. 
+
+This could include:
+    Student Data: 
+        Demographics, grades, subjects taken, interests, etc.
+    
+    Academic Data: 
+        Course syllabi, assignments, exam results, attendance, etc.
+    
+    External Data: 
+        Job market trends, career requirements, etc.
+
+
+    1. Academic Data:
+
+        focuses on the courses, materials, and academic activities 0
+        that the student interacts with, providing the basis for recommendations and performance predictions
+
+        Course Data:
+            The details about the courses a student has taken or is interested in will help the system suggest relevant subjects.
+
+            Course Syllabi: Provides the course structure, topics covered, and learning objectives. This is important for matching students with appropriate courses based on their interests or academic needs.
+            Prerequisites: Understanding course prerequisites can help in suggesting a logical learning path.
+            Course Difficulty: Data on how challenging students find each course can help the system make recommendations based on a student's academic history and current performance.
+
+    2. External Data:
+        Job Market Trends:
+            Information about job demand and salary trends for different industries can guide students toward career paths with strong growth potential.
+
+            Industry Requirements: 
+                Insights into what skills, certifications, and qualifications are needed for success in different fields (e.g., which coding languages are most in-demand for software engineers).
+
+        Career Requirements and Qualifications:
+            Data on the qualifications needed for different career paths will help guide students toward realistic career goals.
+
+        Education Requirements for Jobs: 
+            What educational background is necessary for various careers (e.g., a certain degree or specialization). This helps in shaping career guidance.
+
+
+---------------------------------------
+Where to find datasets:
+---------------------------------------
+
+Publicly Available Datasets (Open Data):
+
+    - Kaggle:
+        // education-related datasets
+        Student Performance Dataset: 
+            Contains information about student grades and performance across subjects.
+        Course Evaluation Data: 
+            Feedback on various courses.
+
+    - UCI Machine Learning Repository:
+        Student Performance Data
+            Contains data on student grades and other performance metrics (e.g., study time, failures).
+
+    - Government and Educational Open Data Portals:
+        OECD (Organization for Economic Cooperation and Development): 
+            Provides data on education systems across the world.
+        US Department of Education: 
+            Offers publicly available data, such as course enrollment, academic performance, and graduation rates.
+
+
+---------------------------------------
+
+How to Use Public Data:
+
+    Search for Datasets: 
+        Use search terms like 
+            “student performance,” 
+            “course enrollment,” 
+            “academic records,” 
+            “education datasets,” and 
+            “job market trends.”
+    
+    Check Licensing: 
+        Ensure that the dataset you use is either in the public domain or available under an open license (e.g., Creative Commons).
+    
+    Preprocessing: 
+        Many public datasets may require cleaning (handling missing data, normalization, etc.) before you can use them effectively.
+
+
+
+
+
+
+
+

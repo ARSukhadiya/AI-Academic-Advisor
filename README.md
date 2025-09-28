@@ -292,7 +292,6 @@ POST   /chat                  # Send message to AI
 ## 📚 Documentation
 
 - **Capstone Report**: [AI Academic Advisor Report](Documentation/Capstone%20Report%20-%20AI%20Academic%20Advisor.pdf)
-- **Project Poster**: [Detailed Project Poster](Documentation/Project%20detailed%20Poster.pdf)
 - **Presentation**: [PowerPoint Presentation](Documentation/AI%20Academic%20Advisor%20Empowering%20Students%20with%20AI-Driven%20Insights.pptx)
 
 ## 🤝 Contributing
